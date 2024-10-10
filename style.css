@@ -1,0 +1,63 @@
+/* Applied to all elements */
+*{
+    margin: 0;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+/* Styling for main elements */
+
+body{
+    text-align: center;
+    justify-content: center;
+    background-color: #05171F;
+}
+
+
+/* Styling for background */
+#background{
+    margin-top: 165px;
+    margin-bottom: 165px;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: #133459;
+    border-radius: 25px;
+}
+
+#background h1{
+    padding-top: 25px;
+
+}
+
+/* Styling for counter display*/
+#counter-display{
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 90px;
+}
+
+/* Counter control styling */
+#control-board{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.controls{
+    font-size: xx-large;
+    background-color: #00B9E8;
+    border-style: none;
+    height: 70px;
+    width: 150px;
+    border-radius: 20px;
+}
+
+.controls:hover{
+    background-color: rgb(37,85,110, 0);
+    color: #00B9E8;
+    border-style: solid;
+    border-color: #00B9E8;
+    border-width: 5px;
+    transition: ease-in 0.2s;
+}
