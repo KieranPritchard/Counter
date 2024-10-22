@@ -8,18 +8,8 @@ the reason for this project was to continue learning about how websites are buil
 
 with this project there was a couple of problems with the code, then another with styling which was due to me being a perfectionist. the first problem with the code was the colour of the number defaulting to black when the number is reset, this was fixed my making a function in the javascript code to change the colour of the counter to match certain criteria. the second problem was with showing the increase/decrease of the counter, i fixed this by making the web page display the value of the varible container the current number of the varible.
 
-## Table of Contents (Optional)
-
-## How to Install and Run the Project
-
 ## How to Use the Project
 
-## Credits
+## License
 
-## Badges
-
-## How to Contribute to the Project
-
-## Tests
-
-## Licenses
+This can be found in the "doc" folder
