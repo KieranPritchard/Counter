@@ -1,5 +1,14 @@
 # Counter
 
+<div align="center">
+    <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/KieranPritchard/Counter">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/KieranPritchard/Counter">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/KieranPritchard/Counter">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KieranPritchard/Counter">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/KieranPritchard/Counter">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/KieranPritchard/Counter">
+</div>
+
 ## Project Description
 
 This project is a counter, its purpose is to the increase and decrease of the number displayed on screen.
