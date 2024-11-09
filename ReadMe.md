@@ -26,7 +26,12 @@ with this project there was a couple of problems with the code, then another wit
 2. **Interact With The Button**
 
    * Click the "Click Me" button to change the background colour randomly.
-   * The current background colours name will be displayed in a box in the center of the page.
+   * The current background color's name or code will be displayed beside the pages background at the top.
+
+3. **How To Understand The Display**
+
+    * The colour name is shown inside a styled box at the center of the page.
+
 
 ## License
 
