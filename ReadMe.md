@@ -19,19 +19,24 @@ with this project there was a couple of problems with the code, then another wit
 
 ## How to Use the Project
 
-1. **Open the HTML File In Browser**
+1. **Clone The Repository**
 
-    * Open the `index.html` in your web browser, to launch the Colour Flipper.
+    * This downloads the repository to your local device you can do this with git.
 
-2. **Interact With The Button**
+2. **Open The `index.html` File**
 
-   * Click the "Click Me" button to change the background colour randomly.
-   * The current background color's name or code will be displayed beside the pages background at the top.
+    * In the projects folder, open the file in a web browser to launch the application.
 
-3. **How To Understand The Display**
+3. **Use The Counter Application**
 
-    * The colour name is shown inside a styled box at the center of the page.
+    * **Increase count:** you can do this by clicking the `+` button, this adds one to the counter.
+    * **Decrease count:** you can do this by clicking the `-` button, this takes one from counter
+    * **Reset count:** click the `reset` button to set the count to zero.
 
+4. **Counter Rules**
+
+    * The counter display changes to red if the count goes below zero
+    * the counter resets to zero if the count goes either, above or below 9999 or -9999.
 
 ## License
 
