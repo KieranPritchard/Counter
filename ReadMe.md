@@ -15,6 +15,7 @@
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/KieranPritchard/Counter">
 
 </div>
+
 ## Project Description
 ### Objective
 To practise using for web development HTML, CSS, JavaScript. Continue practise working with the Document Object Model, DOM.
